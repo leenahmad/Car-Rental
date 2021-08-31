@@ -1,0 +1,31 @@
+body{
+    background-image: url("background.jpg");
+}
+
+h1{
+    color: rgb(230, 46, 45);
+    text-align: center;
+    background-color: rgb(36, 36, 36);
+    font-family: 'Fredoka One';font-size: 22px;
+}
+
+#logo{
+
+}
+
+footer{
+
+        color: rgb(230, 46, 45);
+        text-align: center;
+        background-color: rgb(36, 36, 36);
+        font-family: 'Fredoka One';font-size: 22px;
+}
+
+table,
+th,
+td {
+  border: 1px solid rgb(224, 95, 192);
+}
+ul li {
+  padding-left: 10px;
+}
